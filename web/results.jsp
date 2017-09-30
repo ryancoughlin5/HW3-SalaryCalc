@@ -86,9 +86,9 @@
                     <td><%= pre_tax_deduction%></td>
                 </tr>
                 
-                <%--<!--<tr>
+                <tr>
                     <td>Pre-tax Pay:</td>
-                    <td><%= pre_tax_pay%></td>
+                    <td><%= taxable_pay%></td>
                 </tr>
                 
                 <tr>
@@ -106,10 +106,10 @@
                     <td><%= post_tax_deduction%></td>
                 </tr>
                 
-                <%--<!--<tr>
+                <tr>
                     <td>Net Pay:</td>
                     <td><%= net_pay%></td>
-                </tr>-->--%>
+                </tr
 
             </tbody>
         </table>
